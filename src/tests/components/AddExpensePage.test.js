@@ -20,4 +20,4 @@ test('should handle onSubmit', () => {
     wrapper.find('ExpenseForm').prop('onSubmit')(expenses[1]);
     expect(history.push).toHaveBeenCalledWith('/');
     expect(addExpense).toHaveBeenCalledWith(expenses[1]);
-})
+});
