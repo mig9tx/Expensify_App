@@ -1,1 +1,5 @@
 node_modules/
+pulic/bundle.js
+pulic/bundle.js.map
+pulic/styles.css
+pulic/styles.css.map
