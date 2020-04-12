@@ -1,6 +1,10 @@
 {
   "name": "expensify",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.16.0",
+    "yarn": "1.16.0"
+  },
   "main": "index.js",
   "author": "Miguel Trujillo",
   "license": "MIT",
